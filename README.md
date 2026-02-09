@@ -1,5 +1,5 @@
 # Rank × Learning-Rate Sensitivity in LoRA-Style Adaptation  
-*A controlled synthetic study inspired by MiLoRA*
+*A controlled synthetic study inspired by the paper Learning Rate Mattters by Lee et al. *
 
 ---
 

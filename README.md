@@ -15,8 +15,8 @@ This repository contains a **fully reproducible synthetic benchmark** that:
 - Sweeps **learning rate × rank**
 - Visualizes **raw**, **best-of-LR**, and **per-rank normalized** performance
 
-The experiments are inspired by **MiLoRA**  
-📄 *MiLoRA: Efficient Fine-Tuning via Bottom-Rank Adaptation*  
+The experiments are inspired by **Learning Rate Matters**  
+📄 *Learning Rate Matters: Vanilla LoRA May Suffice for LLM Fine-tuning*  
 👉 https://arxiv.org/abs/2602.04998
 
 ---

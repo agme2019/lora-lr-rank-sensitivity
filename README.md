@@ -1,5 +1,5 @@
 # Rank × Learning-Rate Sensitivity in LoRA-Style Adaptation  
-*A controlled synthetic study inspired by the paper Learning Rate Mattters by Lee et al. *
+**A controlled synthetic study inspired by the paper Learning Rate Mattters by Lee et al. **
 
 ---
 
@@ -144,7 +144,7 @@ Once normalized **per rank**:
 
 > **The main advantage of MiLoRA is not reduced LR sensitivity — it is better peak alignment at useful ranks.**
 
-This matches the intuition (and claims) in **MiLoRA (arXiv:2602.04998)**:
+This matches the intuition (and claims) in **Learning Rate Mattters (arXiv:2602.04998)**:
 - Bottom-rank components capture useful structure early
 - Optimization is *not* fundamentally easier — just better positioned
 

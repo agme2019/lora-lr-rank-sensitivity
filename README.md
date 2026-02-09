@@ -111,7 +111,7 @@ Still — this does not answer **LR sensitivity**.
 
 ---
 
-## 4️⃣ The “Killer” Figure: Per-Rank Normalized LR Sensitivity
+## 4️⃣ Per-Rank Normalized LR Sensitivity
 
 Now we normalize **each rank independently**:
 
